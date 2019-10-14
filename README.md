@@ -1,16 +1,13 @@
-# slider
+# Slider Animation
 
 A new Flutter application.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66768028-efb8d280-eeb1-11e9-8081-f09af759409d.PNG" 
+       width=320 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66768041-f6474a00-eeb1-11e9-91aa-162dc6a3ab0a.PNG"
+       width=320 hspace="20"/>
+</p>
